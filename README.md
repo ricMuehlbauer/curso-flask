@@ -6,7 +6,11 @@ Ultima aula e minuto parado
 
 31/01/2021 - Aula 1 - Python Overview - Parado em:  01:41
 
+02/02/2021 - Aula 1 - Python Overview - Parado em: 01:59
+
 
 Comandos salvos:
 
 python -m http.server //para iniciar servidor local
+
+source .venv/bin/activate //para ativar a venv no terminal
