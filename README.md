@@ -8,6 +8,7 @@ Ultima aula e minuto parado
 
 02/02/2021 - Aula 1 - Python Overview - Parado em: 01:59
 
+04/02/2021 - Aula 1 - Python Overview - Parado em: 02:53
 
 Comandos salvos:
 
