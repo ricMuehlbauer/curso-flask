@@ -12,6 +12,8 @@ Ultima aula e minuto parado
 
 05/02/2021 - Aula 1 - Python Overview - Parado em: 04:00
 
+17/02/2021 - Aula 2 - Parado em: 00:55
+
 Comandos salvos:
 
 python -m http.server //para iniciar servidor local
